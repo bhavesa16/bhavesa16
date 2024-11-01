@@ -1,16 +1,58 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" alt="Welcome Image" height="250" width="900"/>
+</p>
 
-<!--
-**bhavesa16/bhavesa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sanika Bhave 👋
 
-Here are some ideas to get you started:
+🎓 **Computer Science and Engineering Student (Data Science Specialization) at RCOEM (2025)**  
+🌱 **Currently learning:** Machine Learning, Data Analytics, AWS, and CRM Salesforce  
+💼 **Seeking Opportunities in:** Data Science, Machine Learning, and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🔬 **Final Year Project:** Real-time Crop Recommendation System (using Machine Learning)
+- 📊 **Other Projects:** Pharmalytics (Demand Forecasting Model), AgroVision (Agriculture Data Insights)
+- 🎉 **Passionate About:** Making data-driven decisions, building impactful applications, and solving real-world problems
+
+---
+
+### 🔧 Technologies & Tools
+
+#### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🛠️ Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### 📊 Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ☁️ Cloud 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🌱 Currently Working On
+- **Real-Time Crop Recommendation Algorithm:** Leveraging ML and Data Analytics for crop prediction.
+- **Currently Learning:** Exploring new technologies such as **AWS** and **CRM Salesforce**.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/sanika-bhave)
+[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your-sanikabhave123@gmail.com)
+
+---
