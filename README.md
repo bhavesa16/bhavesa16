@@ -52,7 +52,14 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/sanika-bhave)
-[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your-sanikabhave123@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanika-bhave/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 
 ---
